@@ -1,5 +1,5 @@
 
-time (s)          sample(VT("/OUT") 6.2e-07 3e-06 "linear" 5e-07) (V)
+time (s)          value(VT("/OUT") 6.2e-07 ?period 5e-07 ?xName "time") (V)
 
  6.20000e-07       1.41793e+00      
  1.12000e-06       1.34955e+00      
