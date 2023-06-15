@@ -1,0 +1,8 @@
+
+at (s)            value(awvCreateBus("FLIPS" list(analog2Digital(VT("/FLIPS<3>") "center" ?vCenter 0.9 ?vHigh nil ?vLow nil ?timeX 1) analog2Digital(VT("/FLIPS<2>") "center" ?vCenter 0.9 ?vHigh nil ?vLow nil ?timeX 1) analog2Digital(VT("/FLIPS<1>") "center" ?vCenter 0.9 ?vHigh nil ?vLow nil ?timeX 1) analog2Digital(VT("/FLIPS<0>") "center" ?vCenter 0.9 ?vHigh nil ?vLow nil ?timeX 1)) "Hex") 6e-07 ?period 5e-07 ?xName "time")
+
+ 6.00000e-07      0110              
+ 1.10000e-06      0110              
+ 1.60000e-06      0110              
+ 2.10000e-06      0110              
+ 2.60000e-06      0000              
